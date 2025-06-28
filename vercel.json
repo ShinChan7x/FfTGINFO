@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/check_bot.php", "dest": "/api/check_bot.php" }
+  ]
+}
